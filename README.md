@@ -29,7 +29,7 @@ The basic working process of an AI-enabled self-driving car is:
 
 ## SAMPLE IMAGE – AI-ENABLED SELF-DRIVING CAR
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e78e844-3326-47fa-aafe-862bd30c2981" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2e78e844-3326-47fa-aafe-862bd30c2981" />
 
 
 ## AI-ENABLED SELF-DRIVING CARS
